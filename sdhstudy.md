@@ -14,8 +14,10 @@
 
  2.  Map은 key와 value로 관리 key값은 중복이 되면 안되고 value는 key가 다르면 중복 가능
 
-
+  List 예제
 ![List 예제](./images/list.png)
+
+  Map 예제
 ![Map 예제](./images/map.png)
 
 ## HTTP
